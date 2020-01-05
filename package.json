@@ -43,8 +43,5 @@
     "seq": "0.3.x"
   },
   "dependencies": {
-  },
-  "engines": {
-    "node": "0.6.x"
   }
 }
